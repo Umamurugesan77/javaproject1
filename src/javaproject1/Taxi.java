@@ -5,10 +5,7 @@ public class Taxi extends Cars{
 		System.out.println("Taxi cons empty");
 	}
     public Taxi(int speed) {
-    	this();
-    	
-    	
-    	System.out.println("Taxi cons one arg");
+    System.out.println("Taxi cons one arg");
     }
     public void brake() { 
         
