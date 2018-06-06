@@ -15,8 +15,8 @@ public class Temperature1 {
 	}
 	public static void main(String a[]) {
 		 
-		 Temperature celsius1=new  Temperature();
-			Temperature fahrenheit1=new Temperature();
+		 Temperature1 celsius1=new  Temperature1();
+			Temperature1 fahrenheit1=new Temperature1();
 			celsius1.Celsius(40);
 			
 			fahrenheit1.Fahrenheit(100);
