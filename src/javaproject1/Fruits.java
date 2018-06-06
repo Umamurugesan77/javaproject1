@@ -23,7 +23,9 @@ System.out.println("empty cons");
 		
 		System.out.println("three arg cons");
 		}
-
+public void cost() {
+	System.out.println("cost is high");
+}
 	
 		
 	public static void main(String a[]) {
